@@ -1,0 +1,17 @@
+.\objects\lm75bd_hardware_iic.o: LM75BD_Hardware_IIC.c
+.\objects\lm75bd_hardware_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lm75bd_hardware_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lm75bd_hardware_iic.o: inc/hw_memmap.h
+.\objects\lm75bd_hardware_iic.o: inc/hw_types.h
+.\objects\lm75bd_hardware_iic.o: driverlib/debug.h
+.\objects\lm75bd_hardware_iic.o: driverlib/gpio.h
+.\objects\lm75bd_hardware_iic.o: driverlib/pin_map.h
+.\objects\lm75bd_hardware_iic.o: driverlib/sysctl.h
+.\objects\lm75bd_hardware_iic.o: driverlib/systick.h
+.\objects\lm75bd_hardware_iic.o: driverlib/interrupt.h
+.\objects\lm75bd_hardware_iic.o: driverlib/fpu.h
+.\objects\lm75bd_hardware_iic.o: driverlib/uart.h
+.\objects\lm75bd_hardware_iic.o: tm1638.h
+.\objects\lm75bd_hardware_iic.o: LM75BD.h
+.\objects\lm75bd_hardware_iic.o: inc/hw_i2c.h
+.\objects\lm75bd_hardware_iic.o: driverlib/i2c.h

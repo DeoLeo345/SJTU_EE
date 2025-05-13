@@ -1,0 +1,13 @@
+.\objects\adc.o: ADC.c
+.\objects\adc.o: ADC.h
+.\objects\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\adc.o: inc/hw_memmap.h
+.\objects\adc.o: inc/hw_types.h
+.\objects\adc.o: driverlib/debug.h
+.\objects\adc.o: driverlib/gpio.h
+.\objects\adc.o: driverlib/pin_map.h
+.\objects\adc.o: driverlib/sysctl.h
+.\objects\adc.o: driverlib/systick.h
+.\objects\adc.o: driverlib/interrupt.h
+.\objects\adc.o: driverlib/adc.h

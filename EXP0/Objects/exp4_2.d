@@ -1,0 +1,16 @@
+.\objects\exp4_2.o: exp4_2.c
+.\objects\exp4_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exp4_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\exp4_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\exp4_2.o: inc/hw_memmap.h
+.\objects\exp4_2.o: inc/hw_types.h
+.\objects\exp4_2.o: driverlib/debug.h
+.\objects\exp4_2.o: driverlib/gpio.h
+.\objects\exp4_2.o: driverlib/pin_map.h
+.\objects\exp4_2.o: driverlib/sysctl.h
+.\objects\exp4_2.o: driverlib/systick.h
+.\objects\exp4_2.o: driverlib/interrupt.h
+.\objects\exp4_2.o: driverlib/uart.h
+.\objects\exp4_2.o: tm1638.h
+.\objects\exp4_2.o: JLX12864G.h
+.\objects\exp4_2.o: uifunctionexp4_2.c

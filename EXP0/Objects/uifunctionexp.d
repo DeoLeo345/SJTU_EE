@@ -1,0 +1,11 @@
+.\objects\uifunctionexp.o: uifunctionexp.c
+.\objects\uifunctionexp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uifunctionexp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\uifunctionexp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\uifunctionexp.o: inc/hw_memmap.h
+.\objects\uifunctionexp.o: driverlib/debug.h
+.\objects\uifunctionexp.o: driverlib/gpio.h
+.\objects\uifunctionexp.o: inc/hw_types.h
+.\objects\uifunctionexp.o: driverlib/pin_map.h
+.\objects\uifunctionexp.o: driverlib/sysctl.h
+.\objects\uifunctionexp.o: JLX12864G.h

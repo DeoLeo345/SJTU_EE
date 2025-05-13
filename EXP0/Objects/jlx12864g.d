@@ -1,0 +1,10 @@
+.\objects\jlx12864g.o: JLX12864G.c
+.\objects\jlx12864g.o: JLX12864G.h
+.\objects\jlx12864g.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\jlx12864g.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\jlx12864g.o: inc/hw_memmap.h
+.\objects\jlx12864g.o: driverlib/debug.h
+.\objects\jlx12864g.o: driverlib/gpio.h
+.\objects\jlx12864g.o: inc/hw_types.h
+.\objects\jlx12864g.o: driverlib/pin_map.h
+.\objects\jlx12864g.o: driverlib/sysctl.h

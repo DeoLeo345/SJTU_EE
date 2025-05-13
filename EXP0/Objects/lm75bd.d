@@ -1,0 +1,13 @@
+.\objects\lm75bd.o: LM75BD.c
+.\objects\lm75bd.o: LM75BD.h
+.\objects\lm75bd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lm75bd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lm75bd.o: inc/hw_memmap.h
+.\objects\lm75bd.o: inc/hw_types.h
+.\objects\lm75bd.o: inc/hw_i2c.h
+.\objects\lm75bd.o: driverlib/debug.h
+.\objects\lm75bd.o: driverlib/gpio.h
+.\objects\lm75bd.o: driverlib/pin_map.h
+.\objects\lm75bd.o: driverlib/sysctl.h
+.\objects\lm75bd.o: driverlib/i2c.h
+.\objects\lm75bd.o: driverlib/fpu.h
